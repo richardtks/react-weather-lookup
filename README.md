@@ -3,9 +3,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # React-weather-lookup
 ## Technology
 1. create-react-app
-2. [https://openweathermap.org/api](OpenWeather)
+2. [OpenWeather](https://openweathermap.org/api)
 3. Bootstrap
-4. [https://github.com/iamkun/dayjs](DayJS) 
+4. [DayJS](https://github.com/iamkun/dayjs) 
 
 ## Available Scripts
 
