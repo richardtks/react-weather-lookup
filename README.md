@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# React-weather-lookup
+## Technology
+1. create-react-app
+2. [https://openweathermap.org/api](OpenWeather)
+3. Bootstrap
+4. [https://github.com/iamkun/dayjs](DayJS) 
+
 ## Available Scripts
 
 In the project directory, you can run:
